@@ -35,3 +35,10 @@ code {
 .app {
   height: 100%;
 }
+
+.add-button {
+  position: absolute;
+  bottom: 50px;
+  right: 50px;
+  cursor: pointer;
+}
